@@ -21,7 +21,7 @@ tp sur javscript/Ecma6+
  - traitement de text ( split() - remplace() ..)
  - match() and Regular Exeption (validation data ) 
  - try catch 
- - DOM ( add class - create element html dynmaic - get/set value from element html ...)
+ - DOM ( add class - create element html dynamic - get/set value from element html ...)
  - event ( focusout - keyup ..)
  - get value from select html .
  
