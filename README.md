@@ -11,7 +11,7 @@ tp sur javscript/Ecma6+
  - Map() - sort() - Filter() 
  - add - delete with array obejct 
  - pdf with jspdf 
- - cvs with csv-parser
+ - csv with csv-parser
  - Fetch Api
  - function void - return - passer array in parametre function .
  - for - for/in 
